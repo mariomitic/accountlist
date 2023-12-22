@@ -1,0 +1,18 @@
+
+{
+  "accountlist": [
+    {
+      "username": "mario",
+      "password": "ljubavi77",
+      "email": "mariomitic@yahoo.com",
+      "id": 1
+    },
+    {
+      "username": "aaaaa",
+      "password": "aaaaaaaa",
+      "email": "",
+      "id": 2
+    }
+  ]
+
+}
